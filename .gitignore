@@ -55,3 +55,7 @@ DPTD/Saved/Logs/DPTD.log
 DPTD/Saved/Config/Windows/EditorUserSettings.ini
 DPTD/Saved/Logs/DPTD.log
 DPTD/Saved/Config/Windows/EditorUserSettings.ini
+DPTD/Saved/Autosaves/PackageRestoreData.json
+DPTD/Saved/Logs/DPTD-backup-2015.03.26-21.28.21.log
+*.log
+DPTD/Saved/Config/Windows/EditorUserSettings.ini
