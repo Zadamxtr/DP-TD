@@ -1,0 +1,81 @@
+﻿Log file open, 03/26/15 20:36:23
+LogInit:Display: Running engine for game: DPTD
+LogInit: Version: 4.7.3-2479750+++depot+UE4-Releases+4.7
+LogInit: API Version: 2455222
+LogInit: Compiled (64-bit): Mar 15 2015 23:20:45
+LogInit: Compiled with Visual C++: 18.00.21005.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++depot+UE4-Releases+4.7
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/
+LogInit: Rocket: 1
+[2015.03.26-10.36.23:934][  0]LogTaskGraph: Started task graph with 3 named threads and 6 total threads.
+[2015.03.26-10.36.24:000][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2015.03.26-10.36.24:017][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2015.03.26-10.36.24:026][  0]LogInit: Object subsystem initialized
+[2015.03.26-10.36.24:031][  0]LogInit: Selected Device Profile: [Windows]
+[2015.03.26-10.36.24:031][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2015.03.26-10.36.24:037][  0]LogInit: Computer: ANDREW-PC
+[2015.03.26-10.36.24:037][  0]LogInit: User: Andrew
+[2015.03.26-10.36.24:037][  0]LogInit: CPU Page size=4096, Cores=4
+[2015.03.26-10.36.24:037][  0]LogInit: High frequency timer resolution =3.117968 MHz
+[2015.03.26-10.36.24:037][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx) Virtual=8192.0GB
+[2015.03.26-10.36.24:038][  0]LogMemory: Platform Memory Stats for Windows
+[2015.03.26-10.36.24:038][  0]LogMemory: Process Physical Memory: 46.54 MB used, 46.54 MB peak
+[2015.03.26-10.36.24:038][  0]LogMemory: Process Virtual Memory: 25.48 MB used, 25.49 MB peak
+[2015.03.26-10.36.24:038][  0]LogMemory: Physical Memory: 4139.45 MB used, 8140.71 MB total
+[2015.03.26-10.36.24:038][  0]LogMemory: Virtual Memory: 279.82 MB used, 8388608.00 MB total
+[2015.03.26-10.36.24:065][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GT 610  (Feature Level 11_0)
+[2015.03.26-10.36.24:065][  0]LogD3D11RHI: Adapter has 977MB of dedicated video memory, 0MB of dedicated system memory, and 3071MB of shared system memory, 1 output[s]
+[2015.03.26-10.36.24:065][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2015.03.26-10.36.24:074][  0]LogRHI: Texture pool is 684 MB (70% of 977 MB)
+[2015.03.26-10.36.24:082][  0]LogD3D11RHI: Async texture creation enabled
+[2015.03.26-10.36.24:169][  0]LogTextLocalizationManager: The requested culture ('en_AU') has no localization data; parent culture's ('en') localization data will be used.
+[2015.03.26-10.36.24:238][  0]LogTextLocalizationManager:Warning: Loading localization resources contain conflicting entries for (Namespace:UICommands, Key:Save_ToolTip):
+Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (-29098895) String: (Saves the current level to disk)
+Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Engine/en/Engine.locres) Hash: (-1280300587) String: (Save selected data to vlog file)
+[2015.03.26-10.36.24:238][  0]LogTextLocalizationManager:Warning: Loading localization resources contain conflicting entries for (Namespace:ContentBrowser, Key:ImportAssetToolTip):
+Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (-630476809) String: (Import to {0}...)
+Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (1271782899) String: (Imports an asset from file to this folder.)
+[2015.03.26-10.36.24:322][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2015.03.26-10.36.26:723][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.26-10.36.27:285][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.26-10.36.27:347][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2015.03.26-10.36.27:386][  0]LogDerivedDataCache: Loaded boot cache 0.04s 40MB C:/Users/Andrew/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc.
+[2015.03.26-10.36.27:386][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Andrew/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc
+[2015.03.26-10.36.27:386][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Andrew/Documents/GitHub/DP-TD/DPTD/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2015.03.26-10.36.27:386][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2015.03.26-10.36.27:512][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2015.03.26-10.36.27:524][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Andrew/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2015.03.26-10.36.27:839][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2015.03.26-10.36.27:839][  0]LogMeshUtilities: No automatic mesh merging module available
+[2015.03.26-10.36.28:168][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2015.03.26-10.36.28:243][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf'
+[2015.03.26-10.36.29:038][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2015.03.26-10.36.29:256][  0]SourceControl: Info Source control is disabled
+[2015.03.26-10.36.29:256][  0]SourceControl: Info Source control is disabled
+[2015.03.26-10.36.29:256][  0]SourceControl: Info Source control is disabled
+[2015.03.26-10.36.29:257][  0]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.26-10.36.29:257][  0]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.26-10.36.29:265][  0]SourceControl: Info Source control is disabled
+[2015.03.26-10.36.29:443][  0]LogObj: 24231 objects as part of root set at end of initial load.
+[2015.03.26-10.36.29:443][  0]LogUObjectAllocator: 5136440 out of 0 bytes used by permanent object pool.
+[2015.03.26-10.36.29:522][  0]LogEngine: Initializing Engine...
+[2015.03.26-10.36.31:701][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.03.26-10.36.31:717][  0]LogInit: FAudioDevice initialized.
+[2015.03.26-10.36.31:754][  0]LogAIModule: Creating AISystem for world NewWorld
+[2015.03.26-10.36.31:775][  0]LogDerivedDataCache: Saved boot cache 0.02s 40MB C:/Users/Andrew/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc.
+[2015.03.26-10.36.31:781][  0]LogInit: Texture streaming: Enabled
+[2015.03.26-10.36.31:870][  0]LogAnalytics: Creating configured Analytics provider AnalyticsET
+[2015.03.26-10.36.31:870][  0]LogAnalytics: ET APIKey = Rocket.Release. APIServer = http://et2.epicgames.com/ET2/. AppVersion = 4.7.3-2479750+++depot+UE4-Releases+4.7
+[2015.03.26-10.36.31:870][  0]LogAnalytics: ET APIKey = Rocket.Release. DataRouterUploadURL = https://datarouter-public-service-gamedev.ol.epicgames.net/datarouter/api/v1/public/data. AppVersion = 4.7.3-2479750+++depot+UE4-Releases+4.7
+[2015.03.26-10.36.31:870][  0]LogAnalytics: SetUserId efeb184040b43f68d72c61b1f110378d|7cdfea85eda24656bdfb166bf9e18753|d23072fc-a5aa-4498-9bed-e5fae8cdbf77
+[2015.03.26-10.36.31:870][  0]LogAnalytics: AnalyticsET::StartSession [Rocket.Release]
+[2015.03.26-10.36.31:929][  0]LogInit: Transaction tracking system initialized
+[2015.03.26-10.36.32:093][  0]BlueprintLog: New page: Editor Load
+[2015.03.26-10.36.32:126][  0]LogAssetRegistry: FAssetRegistry took 0.0099 seconds to start up
+[2015.03.26-10.36.32:126][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
+[2015.03.26-10.36.32:679][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.26-10.36.33:085][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.26-10.36.40:108][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Regular.ttf'
+[2015.0
