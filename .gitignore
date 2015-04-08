@@ -41,26 +41,9 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-DPTD/Saved/Logs/DPTD-backup-2015.03.26-21.21.42.log
-DPTD/Saved/AutoScreenshot.png
-DPTD/Saved/Logs/DPTD.log
-DPTD/Saved/Logs/DPTD.log
-DPTD/Saved/Config/Windows/EditorLayout.ini
-DPTD/Saved/Config/Windows/EditorLayout.ini
-DPTD/Saved/Autosaves/PackageRestoreData.json
-DPTD/Saved/Logs/DPTD-backup-2015.03.26-21.24.42.log
-DPTD/Saved/Autosaves/PackageRestoreData.json
-DPTD/Saved/Config/Windows/Engine.ini
-DPTD/Saved/Logs/DPTD.log
-DPTD/Saved/Config/Windows/EditorUserSettings.ini
-DPTD/Saved/Logs/DPTD.log
-DPTD/Saved/Config/Windows/EditorUserSettings.ini
-DPTD/Saved/Autosaves/PackageRestoreData.json
-DPTD/Saved/Logs/DPTD-backup-2015.03.26-21.28.21.log
+DPTD/Saved
+DPTD/Binaries
+DPTD/DerivedDataCache
+DPTD/Intermediate
 *.log
-DPTD/Saved/Config/Windows/EditorUserSettings.ini
-DPTD/Saved/Config/Windows/EditorUserSettings.ini
-DPTD/Saved/Logs/DPTD.log
-*.log
-DPTD/Saved/Config/Windows/EditorUserSettings.ini
-DPTD/Saved/Config/Windows/EditorUserSettings.ini
+
